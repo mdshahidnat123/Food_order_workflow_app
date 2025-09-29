@@ -34,4 +34,4 @@ It uses **BLoC architecture** for state management and includes proper **error h
 1. Clone the repository:  
    ```bash
    git clone <repo-link>
-de ko GitHub repo me push karne ke steps bhi de dunga.
+
